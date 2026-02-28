@@ -13,7 +13,7 @@
 
   <site url="ebs.cswg.com">
     <compat-mode>IE11</compat-mode>
-    <open-in>IE11</open-in>
+    <open-in>MSEdge</open-in>
   </site>
 
   <site url="csebsu1.cswg.com">
