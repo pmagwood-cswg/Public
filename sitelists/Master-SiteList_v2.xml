@@ -1,0 +1,135 @@
+<!-- 
+ References
+  https://gist.github.com/kypflug/9e9961de771d2fcbd86b#file-emie-v2-schema-xml
+  https://learn.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-it-pro/internet-explorer-11/ie11-deploy-guide/enterprise-mode-schema-version-2-guidance
+-->
+
+<site-list version="20260228">
+  <created-by>
+    <tool>Manual_pmagwood@cswg.com</tool>
+    <version>2.0.1</version>
+    <date-created>20260228.164400</date-created>
+  </created-by>
+
+  <site url="ebs.cswg.com">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+
+  <site url="csebsu1.cswg.com">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+
+  <site url="ebslogin.cswg.com">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+
+  <site url="ebsloginu.cswg.com">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+
+  <site url="mdm.cswg.com">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+
+  <site url="ecm.cswg.com">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+
+  <site url="vendors.cswg.com">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+
+  <site url="enjrhorsyp02qa.cswg.com">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+
+</site-list>
+
+<!--
+[Retired]
+[List reivewed 2026-02-28]
+
+01sitelist-v6
+univiewer6.cswg.com
+eapps.cswg.com
+eappsdev.cswg.com
+eappsqa.cswg.com
+ecmdev.cswg.com
+grc.cswg.com
+mrv.cswg.com
+apex-dev.cswg.com
+custadfuat.cswg.com
+custadff1.cswg.com:18000
+custadfsit2.cswg.com:17000
+custadfsit.cswg.com:7777
+custadfdev2.cswg.com:17000
+custadfdev.cswg.com:7777
+custadf.cswg.com
+
+csmdmu2.cswg.com
+csmdmu1.cswg.com
+mdmd1ap01.cswg.com
+mdmt1ap01.cswg.com
+mdmu1ap01.cswg.com
+
+biceps-dev.cswg.com
+biceps.cswg.com
+
+optoelmdmap701p.cswg.com
+optoelebsap801p.cswg.com
+ednoelebsap702t.cswg.com
+ednoelebsap701d.cswg.com
+ednoelebsap702d.cswg.com
+eshqmsrpvm02/labor_esyk/index.php
+eshqmsrpvm02.cswg.com                 Note:(IE7Enterprise)
+optaixappdma02pr.cswg.com
+optaixappdma01qa.cswg.com
+optaixappdma02dev.cswg.com
+optrhappapex01v.cswg.com
+optrhappcrt01pv.cswg.com:16200/cs/
+optmsqaapp01/lbr_qa_05/
+optmsqaapp02/lbr_qa_04/
+optmsqaapp01/lbr_qa_03/
+optmsqaapp02/lbr_qa_02/
+optmsqaapp01/lbr_qa_01/
+optmsdevapp02/LBR_DEV_02/
+optmsdevapp01/LBR_DEV_01/
+optmsdevapp02/lbr_winds/
+optmsdevapp01/lbrwestf/
+optmsrpchs01v/lbr_chest/
+optmsrpdbs01v/lbr_dubois/
+optmsrpabr01v/lbr_aber/
+optmsrphfn01v/lbr_nhat/
+optmsrpnmd01v/lbr_nemd/
+optmsrpbrt01v/lbr_bratt/
+optmsrpsfd01v/lbr_suff/
+optmsrpstk01v/lbr_stock/index.php
+optmsrpnbg01v/lbr_newb/index.php
+optmsrpvm01/lbrwestf/index.php
+optmsrpvm02/lbr_beth/index.php
+optmsrpwlk01v/lbr_winds/index.php
+
+webfocus1.corp.ad.awiweb.com
+oes.corp.ad.awiweb.com
+rebsapp7.corp.ad.awiweb.com
+rebsapp4.corp.ad.awiweb.com
+rebsapp2.corp.ad.awiweb.com
+rebsapp1.corp.ad.awiweb.com
+oms.awiweb.com
+members.awiweb.com
+
+vas66wk8000/mds2/                     Note:(vas66wk8000.gsc.pri)
+
+wherenet.es3.com/switcherdispatch/
+wherenet.es3.com/resourcemanager/
+wherenet-qa.es3.com/switcherdispatch/
+wherenet-qa.es3.com/resourcemanager/
+-->
